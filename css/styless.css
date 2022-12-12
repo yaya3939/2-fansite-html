@@ -19,6 +19,14 @@ h3 {
   text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
 }
 
+table {
+  margin: auto;
+}
+
+td {
+  padding: 20px;
+}
+
 li {
   line-height: 50px;
   color: rgb(129, 202, 129);
